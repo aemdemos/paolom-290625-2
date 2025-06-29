@@ -1,0 +1,26 @@
+{
+  "originUrl": "https://rage-tidy-32547231.figma.site",
+  "lastCrawled": "https://rage-tidy-32547231.figma.site/",
+  "urls": [
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "1802a200fd8cf580b57e8a449199e5c98941a22e"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
