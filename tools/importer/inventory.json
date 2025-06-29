@@ -1,0 +1,182 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-12-ffec49e1de0e8204a39b453228fe21e918bc4786",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-03-c2c9cbb1faf24357c5b26e5a998bda47874577ea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-04-9f9d9ce38d3da8f63ade6e7fd1118acccf29b15d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-05-f2e8b6c85460921dd3d63c08d8113e2c4c70afea",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-06-646ae5354164b8d0caecf36154432daa39ec68e9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-07-0fc59e7ea81b49d9057ad184348d470f39008baf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cards7)",
+      "key": "cards7",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-09-e87665fb011ba30b7d1b227d0701755fc80474d2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://rage-tidy-32547231.figma.site/",
+          "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+          "uuid": "1802a200-11-0dfb429b40f5327966b2360e7fd53895b81e7922",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+      "uuid": "1802a200-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+      "uuid": "1802a200-02-9a8eb9eb923eb5d7dddfe1355c546f48d9723ded",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+      "uuid": "1802a200-08-5f1511c70e76a61278f174dd157e0dacd64f3374",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[1]"
+    },
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+      "uuid": "1802a200-10-8a56687903bbf36a1655dcbf3af9ed1b66e75f2a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://rage-tidy-32547231.figma.site/",
+      "urlHash": "1802a200fd8cf580b57e8a449199e5c98941a22e",
+      "uuid": "1802a200-12-ffec49e1de0e8204a39b453228fe21e918bc4786",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]"
+    }
+  ]
+}
