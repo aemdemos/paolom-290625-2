@@ -1,0 +1,26 @@
+{
+  "originUrl": "https://alias-cell-53631455.figma.site",
+  "lastCrawled": "https://alias-cell-53631455.figma.site/",
+  "urls": [
+    {
+      "url": "https://alias-cell-53631455.figma.site/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "d5131607589c3da4137a57789f9f6c6fa76cd42a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
